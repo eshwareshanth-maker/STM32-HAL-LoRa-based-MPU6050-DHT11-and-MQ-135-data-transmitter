@@ -1,6 +1,6 @@
 # STM32-HAL-LoRa-based-MPU6050-DHT11-and-MQ-135-data-transmitter
 
-# STM32F411 Multi-Sensor IoT Telemetry Node over LoRa (SX1278)
+
 
 A multi-sensor IoT telemetry node built around the **STM32F411VETx** (ARM Cortex-M4) microcontroller. This project collects real-time environmental data (temperature, humidity, air quality) and motion dynamics (roll, pitch, yaw) and transmits telemetry wirelessly over long distances using an **SX1278 LoRa** transceiver.
 
